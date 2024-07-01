@@ -3,10 +3,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Bibliothèque</title>
+<%@ include file="components/header.htm" %>
 </head>
 <body>
-	
+<%@ include file="components/menu.htm" %>
+	<p>lorem ipsum</p>
+	<a href="users.jsp?nom=Jossuca&copine=Tiantsoa">clique ici</a>
 </body>
 </html>
