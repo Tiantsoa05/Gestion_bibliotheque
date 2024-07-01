@@ -3,11 +3,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<%@ include file="components/header.htm" %>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="./style.css">
+<title>Bibliotheque</title>
 </head>
 <body>
-<%@ include file="components/menu.htm" %>
-	<p>lorem ipsum</p>
-	<a href="users.jsp?nom=Jossuca&copine=Tiantsoa">clique ici</a>
+
+<h1>Hey</h1>
+<p> Le test est bon :) </p>
 </body>
 </html>
